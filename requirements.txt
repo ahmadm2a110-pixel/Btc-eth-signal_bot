@@ -1,0 +1,4 @@
+ccxt==4.4.41
+pandas==2.3.2
+numpy
+requests
